@@ -1,6 +1,4 @@
-package com.ohgireffers.section01.timecomplexity;
-
-import java.util.Arrays;
+package com.ohgiraffers.section01.timecomplexity;
 
 public class Application {
   public static void main(String[] args) {

@@ -11,7 +11,7 @@ public class Application2 {
     //int min = calc.minNumberOf(first, second);        // (1)
     //int min = minNumberOf(first, second);             // (2)
 
-    System.out.println(min);
+    //System.out.println(min);
 
     //int max = calc.maxNumberOf(first, second);        // (3)
     //int max = Calculator.maxNumberOf(first, second);  // (4)
